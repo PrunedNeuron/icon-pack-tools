@@ -26,7 +26,7 @@
   <h3 align="center">Icon Pack Tools</h3>
 
   <p align="center">
-    Some tools and utilities I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
+    Some tools :wrench: and utilities :package: I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
     <br />
   </p>
 </p>
@@ -73,19 +73,21 @@ This is an example of how to list things you need to use the software and how to
 #### 1. Python 3
 
 #### 2. sh
-- If you're on windows, git bash will do.
+
+-   If you're on windows, git bash will do.
 
 <!-- USAGE -->
 
 ### Usage
-- For the generate script in `generators/`
-  ```python
-  python generate.py
-  ```
-- For scripts in `scripts/`
-  ```sh
-  sh script.sh
-  ```
+
+-   For the generate script in `generators/`
+    ```python
+    python generate.py
+    ```
+-   For scripts in `scripts/`
+    ```sh
+    sh script.sh
+    ```
 
 <!-- CONTRIBUTING -->
 
@@ -114,6 +116,7 @@ See <a href="LICENSE.md">`LICENSE`</a> for more information.
 :email: - [am@ayushm.dev](mailto:am@ayushm.dev)<br>
 :basketball: - [Dribbble](https://dribbble.com/ayush)<br>
 :globe_with_meridians: - [Website](https://ayushm.dev)
+
 <!-- ACKNOWLEDGEMENTS -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
