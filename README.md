@@ -10,7 +10,7 @@
   <h3 align="center">Icon Pack Tools</h3>
 
   <p align="center">
-    Some extremely simple tools :wrench:, scripts and utilities :package: I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
+    Some extremely simple tools :wrench:, scripts :snake: :shell: and utilities :package: I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
     <br />
   </p>
 </p>
