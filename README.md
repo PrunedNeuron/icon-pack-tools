@@ -20,21 +20,21 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [API :thumbsup:](#api-)
+- [API](#api)
   - [Endpoints :end:](#endpoints-)
 - [Prerequisites](#prerequisites)
     - [1. Python 3](#1-python-3)
     - [2. sh](#2-sh)
 - [Usage](#usage)
-- [Contributing :hammer:](#contributing-)
+- [Contributing](#contributing)
 - [License](#license)
 - [Find me elsewhere](#find-me-elsewhere)
 
 <!-- ABOUT THE PROJECT -->
 
-## API :thumbsup:
+## API
 
--   I host an api on my website which returns a list of all the icon requests I've ever received, sorted by the number of requesters (descending order).
+-   I host an api on my website which returns a list of all the icon requests I've ever received, sorted by the number of requesters (descending order). My website's source code can be found [here](https://github.com/PrunedNeuron/icon-request-api).
 
 -   It should be extremely useful for creators to build an icon pack from scratch.
 
@@ -75,7 +75,7 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- CONTRIBUTING -->
 
-## Contributing :hammer:
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
