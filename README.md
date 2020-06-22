@@ -7,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Icon Pack Tools</h3>
+  <h3 align="center">Icon Pack Tools (WIP!)</h3>
 
   <p align="center">
     Some extremely simple tools :wrench:, scripts :snake: :shell: and utilities :package: I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
