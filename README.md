@@ -8,7 +8,12 @@
   </a> -->
 
   <h3 align="center">Icon Pack Tools (WIP!)</h3>
-
+  <p align="center"
+  style="
+    font-size: 14px;
+    margin-left: 60px;
+    margin-right: 60px;
+  "><strong>Note</strong>: I haven't yet had the time to organize many more useful tools that I use, hence the WIP tag.</->
   <p align="center">
     Some extremely simple tools :wrench:, scripts :snake: :shell: and utilities :package: I use on a daily basis to build and maintain my icon pack, <a href="">Amphetamine</a> :pill:
     <br />
