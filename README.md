@@ -51,7 +51,11 @@
     https://ayushm.dev/amphetamine/api/v1/requests
     ```
 
-    -   Returns a list of icons with their component/activity IDs and the associated Google Play Store URL in descending order by popularity.
+    -   Returns a sorted list (from most popular to least popular) of icons with their component/activity IDs and the associated Google Play Store URL. Click "`[GET]`" above to see it for yourself.
+    -   If you're using Firefox, it should automatically be prettified. For Chrome users, [this extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) can help.
+    -   Of course, if you prefer [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/), feel free to use them instead.
+
+  PS: A GUI for the api is in the works :smile: , with more endpoints and better functionality.
 
 <!-- GETTING STARTED -->
 
